@@ -28,7 +28,7 @@ Tasks worked on:
 - I didn't have time because of work to integrate Carthage for Quick and Nimble - please review other recent code challenges which such as REA (TramTracker for Quick and Nimble unit Test Integration)
 
 
-I belive I implemented very clean Swift code. I know I can implement a lot more functionalties with much enhanced UI but only because of time constraints I wasn't able to.
+I belive I implemented very clean Swift code. I have implemented the hard parts and I am at a point where I can implement a lot more functionalties with much a enhanced UI but only because of time constraints I wasn't able to.
 
 Implemented using Xcode Version 10.2.1 (10E1001) and Swift 5.0.
 
