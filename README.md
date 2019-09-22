@@ -32,6 +32,5 @@ I belive I implemented very clean Swift code. I know I can implement a lot more 
 
 Implemented using Xcode Version 10.2.1 (10E1001) and Swift 5.0.
 
-Carthage Frameworks are attached but if required use: carthage bootstrap --platform iOS
 ================
 
